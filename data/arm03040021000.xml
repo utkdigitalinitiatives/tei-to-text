@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!--<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">-->
+<TEI.2 id="arm03040021000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  April 7, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040021000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  April 7, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-04-07">April 7, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>10p</extent>
+                    <note type="summary">In Knoxville with Mr. &amp; Mrs. Bishop to attend Conference. Left Gatlinburg for Sevierville April 6th &amp; 
+                        stay with Bishops that night. Program of Conference attached - also clippings - Attended this Conference in Knoxville - April 1920</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040021000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Conferences</item>
+                        <item>Health Care</item>
+                        <item>Disease</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040021001" seq="01"/>
+                <p>
+                    <list>
+                        <item>In Knoxville with Mr. &amp; Mrs. Bishop to attend Conference.</item>
+                        <item>Left Gatlinburg for Sevierville April 6th &amp; stay with the Bishops that night.</item>
+                        <item>Program of Conference attached - also clippings - </item>
+                        <item>Attended this Conference in Knoxville - April 1920</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040021002" seq="02"/>
+                <head>
+                    <date value="1920-04-07">April 7, 1920</date>
+                </head>
+                <p>
+                    Another thing I&apos;m planning to do is to attend a conference of mountain workers in Knoxville April 6 to 8 - the fraternity will 
+                    pay my hotel bill. These conferences are held every year and Evelyn says they are very interesting - About two hundred attend 
+                    from schools in the mountains of Kentucky - North Carolina &amp; Tennessee. <pb ref="arm03040021003" seq="03"></pb>
+                </p>
+                <p>
+                    I wanted you all to read it too as it goes more into detail than I have time for in my <add place="supralinear">ordinary</add> epistles - alas! 
+                    Evelyn is type-writing it now - am sending special delivery as I fear it won&apos;t arrive in time otherwise - I simply forgot 
+                    all about getting it off in yesterday&apos;s mail <gap reason="illegible" resp="bds"></gap> as I should have done.
+                </p>
+                <p>
+                    I had a letter - rather a correspondence card - from the lady in Philadelphia who is <pb ref="arm03040021004" seq="04" n="2"></pb>
+                </p>
+                <p>
+                    <gap reason="illegible" resp="bds"></gap> but they thought they could put us up later so we checked our baggage &amp; went off 
+                    on various errands - I went to the bank &amp; got traveller&apos;s checks - had lunch &amp; went around looking at 
+                    <hi1 rend="underscore">hats</hi1>. Finally bought a <hi1 rend="underscore">plain</hi1> <add place="supralinear">very</add> dark 
+                    brown sailor - moderately rough straw &amp; brim rolling up - had a wide ribbon put around it of same shade - loose 
+                    fringed ends - all costing 6.25 - am going to take apart the little bo<add place="supralinear">u</add>quet of yarn flowers 
+                    you sent me Jane &amp; <del>trim</del> arrange them in conventional design on ribbon in middle of 
+                    front - also take two of the little green straps you sent for my sweater which I didn&apos;t put on (you sent 4) ravel 
+                    them &amp; make stems or something The pretty hats such as we used to get for &#36;10 &amp; &#36;15 are marked
+                    <pb ref="arm03040021005" seq="05"></pb>
+                </p>
+                <p>
+                    <gap reason="illegible" resp="bds"></gap><unclear reason="illegible" resp="bds"></unclear> I was discussing the 
+                    Conference - it was interesting to learn that most of Tennessee&apos;s brilliant men come from the <abbr expan="mountains">mts.</abbr>
+                    Some of the speakers were from there too. A Miss Garfield talked on the Girl Scouts which has just been started in the 
+                    Pine Mt. School Kentucky (&quot;Kaintucky&quot;) &amp; where I imagine she is teaching. She is granddaughter of former 
+                    <abbr expan="President">Pres</abbr> Garfield &amp; daughter of <unclear reason="illegible" resp="bds">Tibod</unclear>
+                    Administrator - very plain &amp; dark &amp; typical looking teacher - She gave a splendid talk - much was said about 
+                    health - slides shown of work done for Trachoma (an eye disease) which is very common among the mountaineers - The 
+                    clippings will give you an idea better than I can tell it - After 8 <abbr expan="months">mo.</abbr> with them I do 
+                    feel like being gay instead of uplifting anyone &amp; would prefer having attended such <add place="supralinear">a</add> 
+                    conference at the beginning of my year&apos;s work rather than at the end - It would be fine if they could be held 
+                    oftener too. <del>When I went back to the Farragut <abbr expan="Wednesday">Wed.</abbr>
+                    <abbr expan="afternoon">p.m.</abbr> about 5 - expecting to get my room as</del> <gap reason="illegible" resp="bds"></gap>
+                </p>
+                <p><pb ref="arm03040021006" seq="06"></pb>
+                  Attended this Conference in Knoxville - April 1920</p>
+
+                <p><pb ref="arm03040021007" seq="07"></pb>
+                  <head>[Program]EIGHTH
+ANNUAL CONFERENCE
+OF
+SOUTHERN
+MOUNTAIN WORKERS
+</head>
+                   </p><p>KNOXVILLE, TENNESSEE
+
+                   </p><p> APRIL 6 - 7 - 8, 1920 
+                   </p><p>TENTATIVE PROGRAM
+                   </p><p>CONFERENCE HEADQUARTERS:  THE HOTEL FARRAGUT</p>
+<p>ALL MEETINGS OF THE CONFERENCE WILL BE HELD IN THE
+ASSEMBLY ROOM OF THE BOARD OF COMMERCE,
+UNLESS OTHERWISE ANNOUNCED</p>
+
+                <p><pb ref="arm03040021008" seq="08"></pb>
+                  <head>PROGRAM</head>
+</p><p>
+April 6 </p><p>
+7.30 P.M. Informal Social Gathering.</p>
+<p>April 7</p><p>9.00 A. M. MORNING SESSION. </p><p>Invocation.
+Announcements.  
+Opening Address.  
+Education.
+</p><p>
+1. What is the place of the Mission School in the mountains?
+2. The relation of the Church or Independent School to the Public School.
+3. Is it desirable for Boards to concentrate their capital and efforts upon a few centers?
+
+4. Adaptation of education to life. Should there
+be increased emphasis upon industrial training; , agriculture; factory work and machin., work?
+5. Student Labor. Character building.
+Stricter tests for evaluation.
+</p><p>
+2.00 P.M. AFTERNOON SESSION.
+</p><p>
+Public Health.
+</p><p>
+1. The health problem in the mountains.
+2. Ways of meeting the problem of health in the mountains.
+3. State Public Health Work.
+(a) Hospitals.
+(b) Clinics.
+(c) Extension Work.
+</p><p>
+7.30 P.M.
+EVENING
+SESSION.
+</p><p>
+1. What the mountains need from the outside.
+2. The Red Cross national program of Public Health as it may affect the
+mountains.
+3. Fighting Trachoma in the mountains. (Illustrated.)
+</p><p>
+April 8
+9.00 A.M. MORNING
+SESSION.
+</p><p>
+Business Meeting.
+Community Work.
+</p><p>
+1. Sociological Surveys; making them and using them.
+2. Organizing the community forces.
+3. The Public School as
+a center for community work.
+4. The value of 
+Extension Work, and who should
+do it.
+5. Recreation.
+</p><p>
+1. What is the place of the Mission School in the mountains?
+2. The relation of the Church or Independent School to the Public School.
+3. Is it desirable for Boards to concentrate their capital and efforts upon a few centers?
+
+4. Adaptation of education to life. Should there
+be increased emphasis upon industrial training; , agriculture; factory work and machin., work?
+</p><p>
+2.00 P.M. AFTERNOON SESSION.
+</p><p>
+Religion.
+</p><p>
+1. Points of Religion where we all agree.
+2. Relation of the denominational and independent schools to the churches of the community.
+3. Place of the Interchurch World Movement in the mountains.
+</p><p>
+Testimony Meeting.
+</p><p>
+Changes that have taken place in your community during your stay.
+It has not been possible, in issuing the program so early, to indicate the speakers who will make addresses and lead the discussion of various topics. Among those, however, who hope to participate are :
+</p><p>
+DR. LIVINGSTON FARRAND, Chairman Central Committee, American Red Cross.
+Miss MABEL BROWN ELLIS, Special Agent Juvenile Courts, National Child Labor Committee.
+DR. JOHN MCMULLEN, U. S. Public Health Service. REV. JAMES D. BURTON Oakdale, Tennessee.
+
+                 </p>
+                <p><pb ref="arm03040021009" seq="09"></pb>
+<p> <add><date value="1920-04-08">April 8, 1920</date></add>The Knoxville News Sentinel</p>
+                  <head>[News Clipping] DIXIE MOUNTAIN WORKERS MEET</head>
+                  </p><p>Two Hundred Delegates Attending Annual Conference in Knoxville.
+                  </p><p>PROMINENT SPEAKERS
+                  </p><p>Rev. Issac Meeler, of Meadow, Chosen Chairman For the Meeting.</p>
+                      <p><add><date value="1920-04-08"><abbr expan="April">Apr.</abbr> 8 1920</date></add></p>
+<p>About two hundred are attending the Southern Mountain Worker's conference, being held in the Board of Commerce auditorium this week. The program opened with a social: gathering in the parlors of the Hotel Farragut, where they are mak ing their headquarters, Tuesday evening.
+</p><p>The first Session opened this morning at 9 o'clock with an invocation by Rev. Clair S. Adams, following which Rev. Isaac Messier gave a speech of welcome.
+</p><p>The opening address' was made by Bruce R. Payne, president of George Peabody college of Nashville, in which he brought out three essential points in mountain work, they being, first, that the most important thing was never to hurry, patience being an absolute necessity in effective work among these people; second, the obstacles to overcome are many, but they can be surmounted. so be not discouraged; and third, he made a great plea for the doing away with classification among these peo pie and all people of the world. He stated that this was the greatest cause of the trouble in labor conditions at the present time.
+</p><p>New Plan of Organization</p><p>
+Mrs. John C. Campbell, wife of the late John C. Campbell, who was the organizer of this conference, and has done much toward its growth, gave a summary of the new plan of organization, recommended by the executive committee, which involves a slight re-organization of the advisory committee and the appointing of a small working committee of five members who will form the budget and assume responsibility of plans for the conference. No permanent chairman has been chose as yet,, ,but.,
+iteZ-. Isaa,e   -
+was chosen chairman for this meeting.
+</p><p>Miss Rose McCord of the Wooten Settlement House of Wooten, Kentucky, spoke on the place of the "Mission School' in the mountains, and stated that there was no longer any place for it as such. The need now, i,a for the church boards to supplement the work of the public' schools.
+</p><p>Mrs, John Hood, of this city, told of the work of establishing "teacherages" in the different counties of this state, four counties already having started them. These teacherages are community homes for the teachers in this work. Dr. Johnson also told of her work in Tennessee.
+</p><p>Consolidation in Communities </p><p>
+The desirability of boards concentrating their capital and efforts upon a few centers, was taken up by Mar-shall C. Allaben, superintendent of schools of the Woman's Board of Home Missions, of the Presbyterian church, U. S. A. and he stated that heretofore the idea had been simply to add to the numbers of the different denominations but now, it is to further the welfare of the community without thought of numbers and to do this it is necessary to consolidate as much as is practical.
+</p><p>Educational. Activities.</p><p>
+Helping a county superintendent to supervise was the main part of a talk by Miss Helen B. Dingman, of Smith, Kentucky. Thy Working out of the Smith-Hughes act in Kentucky was explained by A. N. May, superintendent of trade and industrial education, in the University of Kentucky.
+</p><p>Miss Mabel Brown Ellis, special agent of juvenile courts for the National Child Labor commission, told of surveys made of the mining schools. She spoke of the great interest the companies take in the schools and stated that it should not be necessary for them to supplement the public schools in order to con-' tinue them more than a few months.
+</p><p>What the Baptists are doing in mountain work was told by Iev. A. E. Brown, D. D., head of the noun-thin mission work of the Southern Baptist convention.
+</p><p>Prof. N. E. Fitzgerald, of the University of' Tennessee, spoke of the work of the Smith-Hughes act in this state, after which -R. S. Maddox, state forester for Tennessee, told of the state's attempts of conservation through the help of the mountain workers, and how they could assist in the prevention of forest fires, the killing of animals and various other things.
+</p><p>Public health was taken up this afternoon and the work in the mountains discussed in connection with the work in the different states. Dr. Livingstone Farrand, a famous health expert and head of the central committee of the American Red Cross, and other health workers were on the program
+</p>
+                <p><pb ref="arm03040021010" seq="10"></pb>
+                    <head>[News Clippng]'NATION RIDDLED WITH DISEASE'</head>
+                </p><p>Dr. Livingston Farrand. of Red Cross, Says Much is Preventable.</p>
+                    <p>NEED HEALTH CLINICS</p>
+                    <p>Declares Infant Death Rate Can be Easilty Reduced by One-Half.</p>
+<p>"Most important phase of public
+health work is child welfare." states Dr. Livingstone Farrand, noted health expert, in an address given in Knoxville's new public health, center, to
+be opened up soon, Wednesday evening. "Infant death rate can easily be cut in half by simple use of preventive measures. The need has never been so great as at the presnet time. The establishing of health centers in communities is putting to a test t1le application of modern knowledge. The war is not yet over by any means, for the world is left in a state of prostration. The loss of vitality is indescribable and appalling, and conditions are more critical and dangerous than ever before. As a nation, we are riddled by disease, a" large amount of which is prevent-able. Several hundred thousands die of disease before reaching the age of one year."
+</p><p><head>Need Prevention Measures.</head></p><p>
+"A cross section of the physical condition of our young men was shown in the draft, and one-third of them found plfysically unfit. This is the first time in the history of the country that an audit of physical conditions has been made and proves the dire necessity for measures of prevention. From 150,000 to 200,000 die every year from tuberculosis and 2,-000,000 new cases. arise, which cost in dollars and cents goes into billions, and if only a fraction of that
+ost were put into prevention, the aving would be infinitely more than the cost. The war brings us to the fact that the so-called social diseases 3 re the greatest menace we have, and ;hould be dealt with in a similar nanner with all other infectious disases. During the war the government took up the treatment to some extent, but have since dropped it be-cause the people of the country Lave not been educated to the fight against it.
+</p><p>"Fifty years ago the first' health departments were established, being for the most part in the form of 'pest houses,' where the victims of such diseases as smallpox and cholera were isolated because of the public fearing an epidemic. People are beginning to realize now that there are other diseases as great a menace to the public. Mental hygiene, preventative insanity, and similar diseases are the cause of a very large amount of the misery and suffering In the country at the present time.
+Lauds Health Work Here.
+</p><p>"A number of private agencies are doing what the public health boards should be doing, but cannot for the lack of support from the public. The establishing of these health centers will save energy and produce an effect obtainable in no other wcy. Knoxville is to be congratulated upon this building and the way her people are taking hold of the problems facing till* m in health work. They are taking a very, pr gressive step that is in harmony with the best medical advices on the subject. I expect great things from this center and am looking forward to the time when the health center will not have to befinanced by private individuals, but will be included in the activities of the public health officials, funds being supplied from the taxes of the community."
+</p><p>J. L. McMillan, head` of the south-ern division of the American Red Cross, told of some of the plans for .work during times of peace. He stated that relief work in a community wr.lw necessitated because of sickness in a, family, primarily, and it was
+impossible to adequately, do this work without co-operating with the health centers. "It is the object of the Red Cross, in its work, to cover the real needs in the community. In order to do this, they have adopted these principles: each chapter using local initiative and not being domi- f nated by a larger organization de- c termining specifically what should be T done by that chapter; no duplication of work, chapters not to undertake I what is already being done, no mat-ter in how small a way; all activities of the Red Cross will be such that they can be taken over by the governments of the community."
+</p><p><head>Many Greet Dr. Farrand.</head></p>
+<p>A large number of the representative citizens of Knoxville were present at the meeting, a deep interest in the movement being shown by all. Also a number of the delegates from the mountain workers conference, now being held, in this city, were present. At the close of the talks the audience remained for an - in-formal social time, during which. delicious refreshments were served. A former college student, Robert F. Harris, who has located in this city to follow the,practise of law, greeted Dr. Farrand and revived some of the memories of life at the University of Colorado, of which Dr. Farrand was president, Mrs. J. C. Tyler, of this city, a cousin of Dr. Farrand, also enjoyed having this opportunity  to greet him.
+</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

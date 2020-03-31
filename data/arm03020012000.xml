@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020012000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sept. 19, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020012000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sept. 19, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-09-19">Sept. 19, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>15p</extent>
+                    <note type="summary">Weekend trip via Little Pigeon River into <sic corr="North">Nort</sic> Carolina preparing for the school &amp; community fair.</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020012000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Food</item>
+                        <item>Landscape</item>
+                        <item>Mountains</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020012001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Weekend trip via Little Pigeon River into <sic corr="North">Nort</sic> Carolina preparing for the school &amp; community fair.</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020012002" seq="02"/>
+                <head>
+                    <date value="1919-09-19"> Sept. 19, 1919</date>
+                </head>
+                    <p>
+                        <del>Dearest family another whole week has flown by and I&apos;m behind again with my letter to you 
+                        and as usual just <hi1 rend="underscore">reams</hi1> to write about. Jane&apos;s grand long letter came yesterday (Monday) 
+                        and was brimming over with activity. Seems to me you all are having a gay giddy time &amp; so much as is doing in 
+                        Tacoma! The papers came today &amp; were much enjoyed.</del></p>
+                <p><del>It will be grand for pa to have a trip to California &amp; hope he starts soon. Have been thinking about that sweater of 
+                        yours Jane &amp; would like to buy it <sic corr="off">of</sic> you I guess I&apos;ll need one after all as this green coat is 
+                        rather big to wear all the time the girls say one lives in a sweater at school. I mean what I say about <hi1 rend="underscore">buying</hi1> 
+                        it &amp; won&apos;t take it otherwise. Hope my registered letter with check arrived O.K.</del></p>
+                <p><del>The kodaks are awfully nice and was so pleased to get them. Virginia May looks like the other two </del><pb ref="arm03020012003" seq="03"/><del>
+                        can&apos;t realize where I&apos;m living even yet it seems like a dream A big map hangs in the schoolroom of the U.S. &amp; 
+                        <abbr expan="Washington">Wash.</abbr> is certainly a long ways across from here Don&apos;t look at it! Ask Arthur about taking 
+                        a time exposure with my kodak <unclear reason="illegible" resp="tl">Premo No. F</unclear> you know there is a place that 
+                        you set for a <hi1 rend="underscore">&quot;time&quot;</hi1> but do not know what else to do as I did not bring my book of 
+                        directions <hi1 rend="underscore">foolishly</hi1>! Would like to take some interiors of the house &amp; school.</del></p>
+                <p>My last was written Wednesday Did I tell you that I made a batch of Scotch cake that p.m. after school and how good it was? 
+                    1 lb. of flour - 1/2 lb. of butter - 1/2 teaspoon baking powder - 2/3 cup sugar - 1 teaspoon vanilla It is so dry you have to work it 
+                    a long time &amp; then take little pieces &amp; pat into shape for the pan but its the real stuff! Try it! Our party Thursday night 
+                    was a great success began a little after 7 &amp; stopped about 9:15 We played two games the first was making animals 
+                    with needle and thread on squares of cloth 2nd was the drawing <pb ref="arm03020012004" seq="04" n="02"/>of various objects on a 
+                    blackboard from a baby to a <del>bird&apos;s</del> bird&apos;s nest like the game you suggested Jane They both went 
+                    off beautifully too. About twenty five came all ages.</p>
+                <p>The weather Friday a.m. was awfully queer a strong <abbr expan="mountain">mt.</abbr> wind blowing &amp; prospects of rain 
+                    everyone said. However we went on with our preparations for the trip - Evelyn got back during the morning from Alabama &amp; 
+                    was pleased to have us go as she has not really felt equal to taking the trip herself - We closed school at 2 half an hour 
+                    earlier than usual &amp; rushed home &amp; got into our costumes - Abbie wore brown corduroy skirt &amp; flannel shirt - 
+                    Emily green <abbr expan="corduroy">cord.</abbr> skirt &amp; niddy and I&apos;ve 
+                    my riding skirt khak<del>h</del>i niddy &amp; green tie. We started out in our hats (Panama) but soon discarded 
+                    them! Mr. C. had packed up everything during the p.m. very neatly (army training) &amp; came up with Dan &amp; the hack about 
+                    2:30 - By 3 we were off. Guess we were criticized <pb ref="arm03020012005" seq="05"/>too for going by <hi1 rend="underscore">some</hi1>! 
+                    Stopped &amp; got Mrs. Reagan. She is &quot;going on 29&quot; &amp; has a daughter about 14! One of the early marriages of 
+                    this region! We drove on up <add place="supralinear">to</add> Forks of the River &amp; then took the road to the Sugar Lands right up 
+                    the one Fork of Little Pigeon in the ruts. It was a rough road but worse awaited us - After bumping along cheerfully in the sunshine 
+                    for the predictions of rain came to naught we arrived at two roads &amp; following little Emily&apos;s positive directions took the upper 
+                    which after a mile or more of traveling we discovered was the wrong one. At a lone store we were directed to a shortcut to the right 
+                    road. Dan meanwhile had had rambunctious fits of backing &amp; general stubbornness so we got out &amp; left Mr. C. to entire 
+                    management of hack &amp; beast over the awful <del>road</del>
+                    <add place="supralinear">road</add> that confronted 
+                    us. Really in places great boulders like steps <gap reason="illegible" resp="tl"></gap> and again just lying imbedded in the middle of the 
+                    road or <pb ref="arm03020012006" seq="06" n="03"/>at one side made it seem impossible that the hack would ever survive the jolts &amp; 
+                    wrenches! And sure enough one of the shafts did break off. Getting wire at the store poor Mr. C. fixed it back in place &amp; soon
+                    bumped along again while we girls plodded along in the rear <hi1 rend="underscore">giggling</hi1>! (Tom <sic corr="Cambell's">Camel&apos;s</sic> 
+                    wife was sick so he couldn&apos;t go after all.) Then we came to our road &amp; a farm where were some people clustered at the barn 
+                    to the road and as we discovered helping a drunken mountaineer along his way. He saw our <sic corr="conveyer">conveyaer</sic> &amp; 
+                    immediately wanted to ride and meeting no response began to curse violently. His words were soon lost as we hustled on &amp; he 
+                    was too drunk to hurry &amp; overtake us. This is the first victim to moonshine that I&apos;ve seen. Sugar Lands is the heart of &amp; soul 
+                    of the moonshine region however &amp; stills are everywhere they say - sugar is always very scarce there! <pb ref="arm03020012007" seq="07"/>
+                    Dan continued to be uncertain at moments &amp; the road rough so after another mile or so we decided to leave the hack at the side of 
+                    the road - put our packs on his back &amp; continued on foot. Poor Dan he surly was a beast of burden when we got through fixing 
+                    him - A big pack hung on either side &amp; one in the middle - our hats pinned gaily on top - a lantern hanging on one side - axe on 
+                    another - and the girls&apos; little bags dangling also. A cabin was at the side of the road where we elected to stop &amp; we went in &amp; 
+                    asked permission to leave our harness &amp; bought some awfully good apples <sic corr="off">of</sic> them too. We explained 
+                    to the two women who we were &amp; where we were going. They were as communicative as most of them are with strangers - constant &amp; persistant questioning will finally get the 
+                    desired information. We pushed on until just about dark stopping in <pb ref="arm03020012008" seq="08" n="04"/>a school yard - the Bracken school 
+                    at present not used. A small one room building of logs primitive in the extreme - benches &amp; no desks for equipment.</p>
+                <p>We built up a fire &amp; in the light of our lantern &amp; the stars got supper - Had cold fried chicken - bread peanut butter - coffee &amp; cake. 
+                    It tasted mighty good too. Then picking up our various articles &amp; putting them in the school house in case of rain we rolled up in our 
+                    blankets &amp; lay down on the ground under the stars. Mrs. Reagan - Abbie &amp; I having never slept out in this fashion 
+                    before did not really <hi1 rend="underscore">sleep</hi1> much - Sleeping in one&apos;s clothes even to 
+                    shoes seemed queer &amp; the ground was hard!! But I would not have missed the experience. A dog prowled around a couple 
+                    of times &amp; we girls fearing for our precious food got up &amp; examined it &amp; safely shut the schoolhouse door. Don&apos;t 
+                    know how many times Abbie &amp; I sat up &amp; fixed our blankets - lost count. About 5:30 we got up &amp; went down a steep 
+                    trail to the river <pb ref="arm03020012009" seq="09"/>a wildly picturesque spot - enormous boulders jumbled together &amp; the water so cold 
+                    &amp; clear rushing around &amp; over them. Got a picture of it which I hope proves good. Our breakfast consisted of coffee - bacon - 
+                    fried eggs &amp; toast. We discovered that our coffee which had tasted queer the night before had been creamed with juice from a 
+                    can of &quot;weinies&quot;. In the dark it had looked like condensed milk can you know! 
+                    Washing greasy dishes in a cold river at the foot of a steep trail was quite thrilling but Abbie &amp; I did &amp; in the course of time 
+                    we were packed <add place="supralinear">&amp;</add> on our way even to the lantern 
+                    Dan behaved beautifully as a pack horse &amp; went plodding along all morning over the steep places without one objection even 
+                    though the fords of which there were half a dozen - I do not enjoy crossing a stream by leaping from rock to rock but made the trip 
+                    successfully in my big boots anyway. <pb ref="arm03020012010" seq="10" n="05"/>We ambled along getting higher &amp; higher till we came 
+                    to Jo Cole&apos;s cabin where Mrs. Cole greeted us. This is the last house on the way - except for cabins put up especially 
+                    for campers. Buford Cole a youngster about 13 came along with us the rest of our trip as guide. It was beautiful through the 
+                    forests so wild and untouched the river part of the time close <abbr expan="with">w</abbr> the trail &amp; then way below 
+                    &amp; rocky as always - like most of the trail. About 11 we reached the cabin <add place="supralinear">where</add> we planned to spend 
+                    that night. So we unpacked faithful Dan &amp; got lunch - There were two cabins in one of which was a stove so we had an easy time 
+                    frying our bacon &amp; apples. As we found some &quot;roasting ears&quot; of corn we boiled them &amp; had quite a spread. 
+                    About noon we left everything neatly put away &quot;in the house&quot; &amp; armed with kodak - shotgun &amp; chocolate we start 
+                    for the last climb to the <pb ref="arm03020012011" seq="11"/>top of Smoky. It was not very steep but quite a steady climb for about an 
+                    hour and three quarters. Then we arrived! A broad green &amp; grassy dip between two low hills &amp; ahead of us blue hazy mountain 
+                    ranges of North Carolina rising one above the other about five of them. Even as we looked they became blotted out by mist which rolled 
+                    nearer &amp; nearer till we were covered by fog &amp; in a down pour of rain. We crossed the boundary into <abbr expan="North Carolina">N. C.</abbr> 
+                    &amp; huddled under a dense growth of small beech trees for half an hour &amp; 
+                    ate chocolate. Then it let up &amp; we walked on down half a mile or so into the state &amp; then as we were dampish turned our 
+                    faces toward Tennessee again &amp; before we knew it were back home again where we were glad to take off our wet niddies &amp; 
+                    wear our dry sweaters the rest of the day. The shower soon arrived after we did so we sat by the cheerful fire &amp; played cards 
+                    awhile - The next excitement was the disappearance of Dan - Mr. C. started <pb ref="arm03020012012" seq="12" n="06"/>in search of him with 
+                    Buford &amp; in the course of a mile or so found him headed down the road for home. He was brought back &amp; securely fastened 
+                    as you can guess. For supper that night we had baked potatoes which we had put in the oven that a.m. - warmed corn bread (am 
+                    growing very fond of it) &amp; bacon &amp; rest of our chicken &amp; cake. The downpour was such that we girls slept in the cabin 
+                    that night. There was a sort of mattress of corn husks on the floor which served as bed. We four lay cross wise &amp; just had room 
+                    rolled tightly in our blankets. It was much more comfortable than the ground too. Buford &amp; Mr. Cresswell had the other house with 
+                    Dan tethered for safe keeping to the side. Mr. C. was awfully nice all through the trip &amp; had sort of a hard position in a way - the 
+                    only man &amp; four women so think he deserves a medal. We were up about 6 and had fried potatoes with our bacon &amp; eggs 
+                    &amp; toast! Best meal <pb ref="arm03020012013" seq="13"/>yet we decided. Then began the usual packing &amp; we were started 
+                    homeward about 8:30. It was quite clear &amp; no rain fell all morning - We stopped at the Coles again. They may send their four 
+                    youngsters to our school soon. <add place="supralinear">One of</add> Dan&apos;s shoes came off &amp; he developed a slight limp 
+                    but aside from that &amp; the slipping off of our packs &amp; a broken egg we got to the old schoolhouse without mishap - Abbie&apos;s 
+                    hat which hat mysteriously dissapeared on the way up was discovered to have been picked up by the little Cole girl who wore it to 
+                    Sunday School. We met her on the way &amp; Abbie presented her with the hat. She was tickled to death I know but of course 
+                    wouldn&apos;t show it. Sunday School was held in the old school &amp; we wondered if our nine eggs which we had left for safe 
+                    keeping in the ancient stove would still be there. But they were &amp; gathering them up &amp; stowing them in various pockets on 
+                    we went &amp; at last came to the old hack &amp; how glad we were to see it. As it was after noon we decided to eat our 
+                    lunch <pb ref="arm03020012014" seq="14" n="07"/>by the roadside then &amp; there. We got some corn bread from the people in the 
+                    house at the roadside - a bushel of their good apples - our harness &amp; after while were started on the last lap of the return trip. 
+                    We came to a <del>whole</del> great grape vine &amp; gathered as many wild grape clusters as could reach. This 
+                    was our last delay until we reached Gatlinburg about 3 - sunburned - dirty &amp; pleased with ourselves &amp; adventures. Evelyn 
+                    &amp; Aunt Lizzie welcomed us - How we <sic corr="reveled">revelled</sic> in the hot water &amp; clean clothes! Our supper tasted 
+                    awfully good too - hot chocolate - beans - jelly etc. We wound up by going to <hi1 rend="underscore">dear</hi1> <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr>
+                    in the <abbr expan="evening">eve</abbr> &amp; then to bed!</p>
+                <p>Well since then it&apos;s been <hi1 rend="underscore">fair</hi1>
+                    <hi1 rend="underscore">fair</hi1>
+                    <hi1 rend="underscore">fair</hi1>. 
+                    Have been drilling my girls - getting maps - papers &amp; a few drawings ready - cleaning up at school etc. Yesterday just before 
+                    dismissing at noon I lit into the youngsters about several things - letting the room get so <pb ref="arm03020012015" seq="15"/>untidy etc. &amp; 
+                    during the noon intermission they got busy so when I went over at 12:45 the room had been swept &amp; fresh flowers put every where! 
+                    After school a bunch of the girls with Emily &amp; me went after ferns up Baskin&apos;s 
+                    then went to school &amp; planted them in old trees &amp; pails &amp; put them in the baskets - nearly a dozen of greens - lovely 
+                    big ones - sword - maiden hair &amp; a fine fronded fern prettier but similar to our brakes. In the <abbr expan="evening">eve.</abbr> was 
+                    a community meeting about the fair at school which we all attended of course. Tonight there was an 
+                    entertainment given by a Mr. Russell ventriloquist &amp; musician. He goes around the county giving these entertainments - 10 &amp; 
+                    15 cent admissions! Bought a copy of a song he sang. (5¢) his own composition &amp; very similar to the songs that I heard at 
+                    <hi1 rend="underscore">the</hi1>
+                    <hi1 rend="underscore">sing</hi1>! Am sending it - it&apos;s rich.</p>
+                <p>Must stop as it&apos;s late and a busy day is before me tomorrow.</p>
+                <p>With just oodles of love to one and all</p>
+                <p>Ruth</p>
+                <p>Tuesday - Great trees of rhododendrons all over <abbr expan="mountains">mts.</abbr>
+                    <hi1 rend="underscore">dense</hi1>
+                    <hi1 rend="underscore">dense</hi1> sample leaf.</p>
+                <p>Sept. 23, 1919</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
