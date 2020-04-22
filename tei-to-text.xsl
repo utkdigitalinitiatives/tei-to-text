@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
   
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:strip-space elements="*"/>
   
-  <xsl:template match="body">
+  <xsl:template match="tei:body">
     <xsl:apply-templates/>
   </xsl:template>
   
-  <xsl:template match="teiHeader"/>
+  <xsl:template match="tei:teiHeader"/>
   
-  <xsl:template match="div1[@type='abstract']">
+  <xsl:template match="tei:div[@type='abstract']">
     <xsl:text>Page </xsl:text><xsl:value-of select="pb/@seq"/><xsl:text>&#10;&#10;</xsl:text>
     <xsl:apply-templates/>
     <xsl:text>&#10;&#10;</xsl:text>
   </xsl:template>
   
-  <xsl:template match="div1[@type='letter']">
+  <xsl:template match="tei:div[@type='letter']">
     <!-- 
       adapted the following from an example Syd Bauman shared on the TEI Listserv
       
@@ -37,9 +38,9 @@
       the for-each-group selects all text (`.//text()`) and groups it around preceding `pb`
       elements. the `generate-id()` function ensures a unique id per pb.
     -->
-    <xsl:for-each-group group-by="preceding::pb[1]/generate-id()" select=".//text()">
+    <xsl:for-each-group group-by="preceding::tei:pb[1]/generate-id()" select=".//text()">
       <xsl:text>Page </xsl:text>
-      <xsl:value-of select="count(preceding::pb)"/>
+      <xsl:value-of select="count(preceding::tei:pb)"/>
       <xsl:text>&#10;&#10;</xsl:text>
       <xsl:value-of select="normalize-space(string-join(current-group(), ' '))"/>
       <xsl:text>&#10;&#10;</xsl:text>
